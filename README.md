@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -7,7 +6,7 @@
 <h3 align="center">Font Visualizer</h3>
 
   <p align="center">
-    A font visualizer that enables users to browse through and preview all available system fonts.
+    A simple font visualizer that enables users to browse through and preview all available system fonts.
     <br />
   </p>
 </div>
