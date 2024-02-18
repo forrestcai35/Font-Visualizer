@@ -14,7 +14,7 @@
 
 ### Built With
 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&labelColor=black&link=https%3A%2F%2Fwww.python.org%2F)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&labelColor=black&link=https%3A%2F%2Fwww.python.org%2F)[www.python.org]
 
 
 <!-- CONTACT -->
