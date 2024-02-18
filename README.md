@@ -22,7 +22,7 @@
 
 Email: forrestcai35@gmail.com
 
-Project Link: [https://github.com/forrestcai35/ChefMate](https://github.com/forrestcai35/ChefMate)
+Project Link: [https://github.com/forrestcai35/ChefMate](https://github.com/forrestcai35/Font-Visualizer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
