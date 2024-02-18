@@ -14,7 +14,7 @@
 
 ### Built With
 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&labelColor=black&link=https%3A%2F%2Fwww.python.org%2F)
+[![Python][python-shield]][python-url]
 
 <!-- CONTACT -->
 ## Contact
@@ -31,4 +31,6 @@ Project Link: [https://github.com/forrestcai35/Font-Visualizer](https://github.c
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/forrestcai
+[python-shield]: https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&labelColor=black
+[python-url]: https://www.python.org
 
